@@ -126,8 +126,8 @@ void ParticleFilter::dataAssociation(std::vector<LandmarkObs> predicted, std::ve
 			}
 		}
 
-    // set the observation's id to the nearest predicted landmark's id
-    observations[i].id = map_id;
+		// set the observation's id to the nearest predicted landmark's id
+		observations[i].id = map_id;
 	}
 }
 
