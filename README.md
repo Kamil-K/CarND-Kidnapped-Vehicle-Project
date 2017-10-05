@@ -4,7 +4,7 @@ Kamil Kaczmarczyk
 # Introduction
 This code contains successful implementation of a particle filter for localization of a self-driving vehicle.
 
-![alt tex](https://github.com/Kamil-K/CarND-Kidnapped-Vehicle-Project/tree/master/pics/success_screenshot.JPG "Successful Implementation")
+![alt tex](https://github.com/Kamil-K/CarND-Kidnapped-Vehicle-Project/blob/master/pics/success_screenshot.JPG "Successful Implementation")
 
 # Overview
 This repository contains all the code needed to complete the final project for the Localization course in Udacity's Self-Driving Car Nanodegree.
